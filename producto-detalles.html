@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>detalle</title>
+
+    <!--Google fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
+
+    <!--Box icons-->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/boxicons@latest/css/boxicons.min.css"
+    />
+
+    <link rel="stylesheet" href="./css/styles.css" />
+  </head>
+  <body>
+    <!--Nav-->
+    <nav class="nav">
+      <div class="nav__center container">
+        <div class="nav__logo">
+          <a href="index.html">
+					<h1>RA<span>ZER</span></h1>
+          </a>
+				</div>
+				<ul class="nav__list">
+					<div class="carrito__icon">
+						<i class='bx bx-cart'></i>
+						<span class="item__total">0</span>
+					</div>
+				</ul>
+      </div>
+    </nav>
+
+
+		<main class="container detalles" id="detalles">
+			<article class="detalle-grid">
+				<img src="https://assets3.razerzone.com/YdK6CuPU_jue8CzZDiBAF7C958g=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh09%2Fh7d%2F9398870278174%2Fviper-v2-pro-black-500x500.png">
+				<div class="detalles-content">
+					<h3>RAZER productos</h3>
+						<p class="price"><b>Precio: </b> $55.00</p>
+						<p class="description">
+							<b>Descripcion: </b> <span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Soluta quae ad ex sint expedita perspiciatis odit eligendi! Et quia ex aperiam dolorum sunt omnis maiores. Repudiandae delectus iste exercitationem vel?</span>
+						</p>
+						<p class="description">
+							<span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque voluptates consequuntur in assumenda odit hic, aut cupiditate dolorem aspernatur! Quibusdam iusto magnam vero maxime quisquam voluptatibus minima aliquam molestias, iure ratione commodi, reiciendis quasi.</span>
+						</p>
+
+						<div class="bottom">
+							<div class="btn__group">
+								<a href="" class="btn addToCart">Añadir carrito</a>
+							</div>
+						</div>
+				</div>
+			</article>
+		</main>
+
+		 <!--Carrito-->
+    
+		 <section class="carrito__overlay">
+      <div class="carrito">
+        <span class="close__carrito">
+          <i class="bx bx-x"></i>
+        </span>
+        <h1>Su Carrito</h1>
+
+        <div class="carrito__center">
+
+          <div class="carrito__item">
+
+            <img src="https://assets3.razerzone.com/YdK6CuPU_jue8CzZDiBAF7C958g=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh09%2Fh7d%2F9398870278174%2Fviper-v2-pro-black-500x500.png">
+            <div>
+              <h3>Razer Exclusive</h3>
+              <p class="price">$122</p>
+            </div>
+            <div>
+              <span>
+                <i class="bx bxs-up-arrow"></i>
+              </span>
+              <p>1</p>
+              <span>
+                <i class="bx bxs-down-arrow"></i>
+              </span>
+            </div>
+            <div>
+              <span class="remove__item">
+                <i class="bx bx-trash"></i>
+              </span>
+            </div>
+					</div>
+					
+        </div>
+
+        <div class="carrito__footer">
+            <h3>Total: $ <span class="carrito__total">0</span></h3>
+            <button class="clear__carrito btn">remover carrito</button>
+        </div>
+      </div>
+    </section>
+    
+		<script src="https://unpkg.com/boxicons@latest/dist/boxicons.js"></script>
+    <script src="./js/scripts.js"></script>
+  </body>
+</html>

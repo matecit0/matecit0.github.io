@@ -1,0 +1,176 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "razer viper",
+            "price": 101,
+            "image": "https://assets3.razerzone.com/YdK6CuPU_jue8CzZDiBAF7C958g=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh09%2Fh7d%2F9398870278174%2Fviper-v2-pro-black-500x500.png",
+            "category": "mouse"
+        },
+        {
+            "id": 2,
+            "title": "Razer Huntsman",
+            "price": 104,
+            "image": "https://assets3.razerzone.com/MH2GoOC7eUw8E3nqCIix68kIIB4=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhb8%2Fhd7%2F9239675600926%2Fhuntsman-v2-tkl-500x500.png",
+            "category": "teclado"
+        },
+        {
+            "id": 3,
+            "title": "Razer Barracuda",
+            "price": 75,
+            "image": "https://assets3.razerzone.com/P_14bwaJdCaIYIiMAXQVdwaWo4w=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbb%2Fhe8%2F9412836753438%2Fbarracuda-2-500x500.png",
+            "category": "auriculares"
+        },
+        {
+            "id": 4,
+            "title": "Razer Enki Pro",
+            "price": 99,
+            "image": "https://assets3.razerzone.com/U1JIhhwzyw0Yl3qK8XNG805ppD4=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh15%2Fh72%2F9407543672862%2Fenki-pro-500x500.png",
+            "category": "sillas"
+        },
+        {
+            "id": 5,
+            "title": "Razer Kishi",
+            "price": 105,
+            "image": "https://assets3.razerzone.com/wsf05yGP4t2-x-f5VVb21CWyM-k=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh5f%2Fh27%2F9408540114974%2Fkishi-v2-android-500x500.png",
+            "category": "tabletas"
+
+        },
+        {
+            "id": 6,
+            "title": "Razer Blade 14",
+            "price": 85,
+            "image": "https://assets3.razerzone.com/zStdp4z65eHbNaNUG-wHlRp9lzc=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbd%2Fh06%2F9286402375710%2Fblade14-p8-fhd-500x500.png",
+            "category": "laptops"
+
+        },
+        {
+            "id": 7,
+            "title": "Razer deathader",
+            "price": 60,
+            "image": "https://assets3.razerzone.com/7gFxJRvjL-560rYztDE-V9cnbLA=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh18%2Fh7a%2F9086238556190%2F500x500-deathadderV2pro.png",
+            "category": "mouse"
+        },
+        {
+            "id": 8,
+            "title": "Razer BlaackwithouV3",
+            "price": 35,
+            "image": "https://assets3.razerzone.com/O0dNtSxiw9C2X5TP7AQY8h4XPT0=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh9d%2Fhc8%2F9207479861278%2Frazer-blackwidow-v3-mini-hyperspeed-phantom_500x500.png",
+            "category": "teclado"
+        },
+        {
+            "id": 9,
+            "title": "Razer Kraken V3 PRO",
+            "price": 799,
+            "image": "https://assets3.razerzone.com/N-o1Wnxe6gHFmHGMJ2HSBViJ_C0=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh6a%2Fhff%2F9397630140446%2Fkraken-v3-pro-3-500x500.png",
+            "category": "auriculares"
+        },
+        {
+            "id": 10,
+            "title": "Razer Iskur XL",
+            "price": 101,
+            "image": "https://assets3.razerzone.com/k5t_W3caWzS33MOZkAxmoSTOBbE=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh49%2Fh92%2F9151223103518%2Fiskur-black-500x500.png",
+            "category": "sillas"
+        },
+        {
+            "id": 11,
+            "title": "Razer Kishi Android",
+            "price": 650,
+            "image": "https://assets3.razerzone.com/uURkd2TN_QaxprHhDjIrfvkuMng=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh28%2Fh8e%2F9073649516574%2FRazer-Kishi-Xbox-500x500.png",
+            "category": "tabletas"
+        },
+        {
+            "id": 12,
+            "title": "Razer Blade 15",
+            "price": 65,
+            "image": "https://assets3.razerzone.com/VHAUmbe4ZRyIwRn6tvmuMwc41v8=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh2d%2Fhe5%2F9392073998366%2Fblade15-ch8-fhd-2-500x500.png",
+            "category": "laptops"
+        },
+        {
+            "id": 13,
+            "title": "Rozer naga",
+            "price": 101,
+            "image": "https://assets3.razerzone.com/TbKWdBMF87MsucSp5IZ__R5c0Us=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhfd%2Fha6%2F9080569528350%2Frazer-naga-pro-500x500.png",
+            "category": "mouse"
+        },
+        {
+            "id": 14,
+            "title": "Razer Cynosa",
+            "price": 104,
+            "image": "https://assets3.razerzone.com/-PCKZ3mE9q9ZgOe9QPhGZFraPZY=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh22%2Fh94%2F9081098076190%2FCynosa-V2-500x500.png",
+            "category": "teclado"
+        },
+        {
+            "id": 15,
+            "title": "Razer Blackshark",
+            "price": 75,
+            "image": "https://assets3.razerzone.com/I6dGobVy_U8qjOlD1E4xHpsFqGQ=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh83%2Fh7e%2F9399589666846%2F2-blackshark-v2-pro-black-500x500.png",
+            "category": "auriculares"
+        },
+        {
+            "id": 16,
+            "title": "Razer Iskur X",
+            "price": 99,
+            "image": "https://assets3.razerzone.com/zAGM2EkLCW7Hw4ubNDee3S2p1i8=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhbd%2Fh37%2F9275302641694%2Fiskur-x-genshin-impact-500x500.png",
+            "category": "sillas"
+        },
+        {
+            "id": 17,
+            "title": "Razer Kaiju",
+            "price": 105,
+            "image": "https://assets3.razerzone.com/UyETcxPfr7H2PEAV_YzOCoM4sVo=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh59%2Fh80%2F9081101942814%2FRaiju-Mobile-500x500.png",
+            "category": "tabletas"
+
+        },
+        {
+            "id": 18,
+            "title": "Razer Blade 17",
+            "price": 85,
+            "image": "https://assets3.razerzone.com/hJY_ZS-lV9-MGF_4X3-RuJNA9g8=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh71%2Fh9a%2F9392074063902%2Fblade17-d8-fhd-2-500x500.png",
+            "category": "laptops"
+
+        },
+        {
+            "id": 19,
+            "title": "Razer basilisk",
+            "price": 60,
+            "image": "https://assets3.razerzone.com/mPuy98qQlrTkecuRaBHyCwiE14Q=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh3d%2Fh38%2F9125421219870%2Frazer-basilisk-ultimate-dock_500x500.png",
+            "category": "mouse"
+        },
+        {
+            "id": 20,
+            "title": "OMEGA Speedmaster",
+            "price": 35,
+            "image": "https://assets3.razerzone.com/AVojqEZbcXApewJ03X0gR1wrTuk=/300x300/https%3A%2F%2Fapi-p1.phoenix.razer.com%2Fmedias%2FTurret-Xbox-One-Base-500x500.png%3Fcontext%3DbWFzdGVyfHJvb3R8OTAzNDF8aW1hZ2UvcG5nfGg2My9oYTEvOTA1NTQzODM3Mjg5NC9UdXJyZXQtWGJveC1PbmUtQmFzZS01MDB4NTAwLnBuZ3w3MzE0Y2M3MzY2NTc3N2YyMTk5ZjEwNTMzZmQ5NGE4MmU5N2I1MzJiMGYwNzMxOWEwMGMwYWY4MjMyNjE2NWU3",
+            "category": "teclado"
+        },
+        {
+            "id": 21,
+            "title": "Razer Blackshark V2 White",
+            "price": 99,
+            "image": "https://assets3.razerzone.com/dCT4kwk_cQ-s1oG7NGltF6K977E=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh1a%2Fh7b%2F9399589765150%2F2-blackshark-v2-pro-white-500x500.png",
+            "category": "auriculares"
+        },
+        {
+            "id": 22,
+            "title": "Razer Iskur Gray",
+            "price": 101,
+            "image": "https://assets3.razerzone.com/QkdK9m7sJktFaaCnqO994hcGDO0=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fhe6%2Fhe4%2F9235792920606%2Fiskur-fabric-dark-gray-500x500.png",
+            "category": "sillas"
+        },
+        {
+            "id": 23,
+            "title": "Razer Kishi Android",
+            "price": 65,
+            "image": "https://assets3.razerzone.com/V8ilNSM5bMTEjt78MqPLU3sckoE=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh8c%2Fhae%2F9030755057694%2FRZ06-03360100-R3M1-500x500.png",
+            "category": "tabletas"
+        },
+        {
+            "id": 24,
+            "title": "Rzer Book",
+            "price": 65,
+            "image": "https://assets3.razerzone.com/VNpuv0bd3nJlFdoiDtaz9HrnRgU=/300x300/https%3A%2F%2Fhybrismediaprod.blob.core.windows.net%2Fsys-master-phoenix-images-container%2Fh8e%2Fh96%2F9233352982558%2FRazer-Book-Evo-500x500.png",
+            "category": "laptops"
+        }
+    ]
+}
